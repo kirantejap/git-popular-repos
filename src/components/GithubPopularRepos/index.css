@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}
+
+.head {
+  font-family: Lobster;
+}
+
+.filters-container {
+  list-style-type: none;
+  display: flex;
+  text-align: center;
+}
+
+.repositories-container {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.ul-repos-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}

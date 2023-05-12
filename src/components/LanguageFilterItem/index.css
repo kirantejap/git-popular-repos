@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.btn-container {
+  margin: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-radius: 16px;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+}
+
+.list-container {
+  background-color: transparent;
+}
+
+.activeFilter {
+  border: 1px solid #0284c7;
+  color: #0284c7;
+}
